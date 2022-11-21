@@ -757,6 +757,7 @@ body.light hr.separator {
 .portfolio .grid figure img {
   display: block;
   position: relative;
+  height: 249px;
 }
 
 .portfolio .grid li a {
