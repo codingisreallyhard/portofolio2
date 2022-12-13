@@ -586,6 +586,12 @@ body.light hr.separator {
   font-weight: 700;
 }
 
+.socialslink {
+  display: flex;
+  gap: 30px;
+  margin-top: 19px;
+}
+
 .about .box-stats h3:after {
   content: "+";
   position: absolute;
